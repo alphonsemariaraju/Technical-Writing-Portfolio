@@ -26,16 +26,14 @@ This repository showcases my professional documentation projects, including DITA
 **Authoring Method:** DITA  
 **Tool Used:** Oxygen XML Author  
 
-📄 **[View PDF](file:///C:/Alphonse%20maria/TW_Project/whatsapp/out/pdf-css-html5/whatsapp-user-guide.pdf)**  
+📄 **[View PDF](whatsapp-user-guide.pdf)**  
 📁 **[View DITA Source](WhatsApp-User-Guide/dita-source/)**  
 
 ---
 
 ## 🛠 Tools & Technologies  
 - DITA XML  
-- Oxygen XML Author  
-- Markdown  
-- Git & GitHub  
+- Oxygen XML Author   
 - Content Structuring (Concept, Task, Reference topics)  
 - PDF & DOCX documentation  
 - Information Architecture  
@@ -57,7 +55,7 @@ If you would like to learn more about my work or collaborate, feel free to conne
 
 **Name:** Alphonse Maria Raju  
 
-*(Add your email or LinkedIn link here if you want me to include it.)*
+*(Email: alphonsemariaraju@gmail.com)*
 
 ---
 
