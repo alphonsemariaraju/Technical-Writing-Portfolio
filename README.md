@@ -16,7 +16,7 @@ This repository showcases my professional documentation projects, including DITA
 **Authoring Method:** DITA  
 **Tool Used:** Oxygen XML Author  
 
-📄 **[View PDF](**  
+📄 **[View PDF](slack_user_guide.pdf)**  
 📁 **[View DITA Source](Slack-User-Guide/dita-source/)**  
 
 ---
