@@ -16,7 +16,7 @@ This repository showcases my professional documentation projects, including DITA
 **Authoring Method:** DITA  
 **Tool Used:** Oxygen XML Author  
 
-📄 **[View PDF](slack_user_guide.pdf)**  
+📄 **[View PDF](**  
 📁 **[View DITA Source](Slack-User-Guide/dita-source/)**  
 
 ---
@@ -26,7 +26,7 @@ This repository showcases my professional documentation projects, including DITA
 **Authoring Method:** DITA  
 **Tool Used:** Oxygen XML Author  
 
-📄 **[View PDF](WhatsApp-User-Guide/whatsapp_guide.pdf)**  
+📄 **[View PDF](file:///C:/Alphonse%20maria/TW_Project/whatsapp/out/pdf-css-html5/whatsapp-user-guide.pdf)**  
 📁 **[View DITA Source](WhatsApp-User-Guide/dita-source/)**  
 
 ---
