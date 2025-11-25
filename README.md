@@ -17,7 +17,6 @@ This repository showcases my professional documentation projects, including DITA
 **Tool Used:** Oxygen XML Author  
 
 📄 **[View PDF](slack_user_guide.pdf)**  
-📁 **[View DITA Source](Slack-User-Guide/dita-source/)**  
 
 ---
 
@@ -27,7 +26,6 @@ This repository showcases my professional documentation projects, including DITA
 **Tool Used:** Oxygen XML Author  
 
 📄 **[View PDF](whatsapp-user-guide.pdf)**  
-📁 **[View DITA Source](WhatsApp-User-Guide/dita-source/)**  
 
 ---
 
@@ -62,7 +60,6 @@ If you would like to learn more about my work or collaborate, feel free to conne
 ## ⭐ How to Navigate This Portfolio  
 - Each project is stored in its own folder.  
 - PDF files show final deliverables.  
-- DITA source folders contain the raw XML authored in Oxygen XML.  
 - README links take you directly to each item.
 
 ---
